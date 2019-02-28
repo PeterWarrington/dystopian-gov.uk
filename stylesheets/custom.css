@@ -1,3 +1,6 @@
+body {
+    font-family: nta, sans-serif;
+}
 #dystopian {
     position: relative;
     bottom: 4px;
@@ -54,5 +57,17 @@
     margin-bottom:0px;
 }
 .homepage-top-content {
-    margin: 0 25px;
+    margin: 0 30px;
+}
+.heading-link {
+    text-decoration-color: #000;
+}
+
+.link-box {
+    background-color: 	#bfc1c3;
+    color: #FFF;
+    padding: 25px;
+}
+.link-box * {
+    color: #FFF;
 }
