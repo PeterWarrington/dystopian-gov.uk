@@ -30,3 +30,29 @@
     font-weight: bold;
     font-size: 15pt;
 }
+.homepage-top {
+    text-align: center;
+    background: #005ea5;
+    color: #fff;
+}
+.homepage-top * {
+    color: #fff !important;
+}
+.homepage-top .homepage-top-inner {
+    position: relative;
+    overflow: hidden;
+    max-width: 1020px;
+    margin: 0 auto;
+    text-align: left;
+}
+.homepage-top .homepage-top-inner .govuk-heading-xl {
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.home-header {
+    border-bottom: none; 
+    margin-bottom:0px;
+}
+.homepage-top-content {
+    margin: 0 25px;
+}
