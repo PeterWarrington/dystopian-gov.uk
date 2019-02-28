@@ -1,4 +1,28 @@
-#dystopic {
+#dystopian {
     position: relative;
     bottom: 4px;
+}
+#global-cookie-message {
+    width: 100%;
+    background-color: #d5e8f3;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#global-cookie-message p {
+    font-family: "nta", Arial, sans-serif;
+    font-weight: 400;
+    text-transform: none;
+    font-size: 14px;
+    line-height: 1.14286;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#global-header-bar, #global-cookie-message p, #footer .footer-wrapper {
+    max-width: 960px;
+    margin: 0 15px;
+}
+@media (min-width: 1020px) {
+    #global-header-bar, #global-cookie-message p, #footer .footer-wrapper {
+        margin: 0 auto;
+    }
 }
