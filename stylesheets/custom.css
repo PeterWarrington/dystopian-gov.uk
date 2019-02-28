@@ -26,3 +26,7 @@
         margin: 0 auto;
     }
 }
+#global-cookie-message .wip {
+    font-weight: bold;
+    font-size: 15pt;
+}
