@@ -29,6 +29,11 @@ body {
         margin: 0 auto;
     }
 }
+@media (max-width: 640px) {
+    .homepage-top-content {
+        margin: 0 15px !important;
+    }
+}
 #global-cookie-message .wip {
     font-weight: bold;
     font-size: 15pt;
@@ -70,4 +75,26 @@ body {
 }
 .link-box * {
     color: #FFF;
+}
+.govIdentityBox {
+    display:flex;
+    width: 400px;
+    height: 150px;
+    border-color: #BFC1C3;
+    border-style: solid;
+    border-width: 3px;
+}
+.govIdentityBox .statusIdentifier{
+    width: 30%;
+}
+.govIdentityBox .text {
+    width: 70%;
+    display: block;
+    margin: auto 0;
+}
+.govuk-header__logo {
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    min-width: 261px;
+    padding-right: 0px;
 }
