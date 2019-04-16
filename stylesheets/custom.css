@@ -98,3 +98,7 @@ body {
     min-width: 261px;
     padding-right: 0px;
 }
+img {
+    display: block;
+    max-width: 100%;
+}
