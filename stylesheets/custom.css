@@ -103,3 +103,19 @@ img {
     display: block;
     max-width: 100%;
 }
+.department-box {
+    height: 170px;
+    background-color: #015EA5;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    display: table;
+}
+.department-box h3 {
+    display: table-cell;
+    vertical-align: middle;
+    color: #ffffff;
+}
+#departments-list {
+    list-style-type: none;
+    padding: 0;
+}
