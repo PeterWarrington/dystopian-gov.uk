@@ -4,6 +4,7 @@ body {
 #dystopian {
     position: relative;
     bottom: 4px;
+    margin-right: 5px;
 }
 #global-cookie-message {
     width: 100%;
