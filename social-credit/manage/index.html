@@ -243,6 +243,9 @@
                 await sleep(1);
                 document.getElementById(id).style = "opacity: " + opacityAdjustForFadeType;
               }
+              if (fadeType == "in") {
+                document.getElementById(id).style = "opacity: 1";
+              }
             }
 
             async function main() {
