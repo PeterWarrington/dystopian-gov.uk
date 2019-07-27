@@ -25,6 +25,25 @@
     <meta property="og:title" content="Dystopian GOV.UK" />
     <meta property="og:url" content="https://lilpete.me/dystopian.uk" />
     <meta property="og:description" content="The GOV.UK of a dystopian Britain." />
+
+    <style>
+    .department-box {
+      height: 170px;
+      background-color: #015EA5;
+      margin-right: 15px;
+      margin-bottom: 15px;
+      display: table;
+    }
+    .department-box h3 {
+      display: table-cell;
+      vertical-align: middle;
+      color: #ffffff;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    </style>
   </head>
 
   <body class="govuk-template__body ">
@@ -146,12 +165,55 @@
                   </div>
                 </div>
             </div>
+            <div class="govuk-grid-row">
+              <div class="govuk-grid-column-full">
+                  <h2 class="govuk-heading-l">
+                      Departments
+                  </h2>
+                  <!-- To be replaced with images-->
+                  <ul>
+                    <li>
+                      <a href="/dystopian.uk/departments/home-office">
+                        <div class="govuk-grid-column-one-quarter department-box">
+                          <h3 class="govuk-heading-m">
+                              Home Office
+                          </h3>
+                        </div>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/dystopian.uk/departments/citizen-protection">
+                        <div class="govuk-grid-column-one-quarter department-box">
+                          <h3 class="govuk-heading-m">
+                              Office for Citizen Protection
+                          </h3>
+                        </div>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/dystopian.uk/departments/police">
+                        <div class="govuk-grid-column-one-quarter department-box">
+                          <h3 class="govuk-heading-m">
+                              Police
+                          </h3>
+                        </div>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/dystopian.uk/departments/post-gov">
+                        <div class="govuk-grid-column-one-quarter department-box">
+                          <h3 class="govuk-heading-m">
+                              Post and Government Administration Office
+                          </h3>
+                        </div>
+                      </a>
+                    </li>
+                  </ul>
+              </div>
+            </div>
           </div>
         </main>
       </div>
-    
-
-    
     <footer class="govuk-footer " role="contentinfo">
     <div class="govuk-width-container ">
         <div class="govuk-footer__meta">
