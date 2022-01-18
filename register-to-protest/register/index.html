@@ -97,7 +97,7 @@
                     <span class="govuk-warning-text__icon" aria-hidden="true">!</span>
                     <strong class="govuk-warning-text__text">
                         <span class="govuk-warning-text__assistive">Warning</span>
-                        Providing false information on this form can lead to imprisonment.
+                        Providing false information on this form can lead to imprisonment without charge.
                     </strong>
                 </div>
                 
@@ -212,14 +212,14 @@
         document.getElementById("submit").addEventListener("click", () => {
           formGroups = document.getElementsByClassName("govuk-form-group");
           submit = true;
-          for (i=0; i < formGroups.length; i++) {
-            if (formGroups[i].getElementsByClassName("govuk-input")[0].value.trim() == "") {
-              submit = false;
-              formGroups[i].getElementsByClassName("govuk-error-message")[0].style = "display: block";
-            } else {
-              formGroups[i].getElementsByClassName("govuk-error-message")[0].style = "display: none";
-            }
-          }
+          // for (i=0; i < formGroups.length; i++) {
+          //   if (formGroups[i].getElementsByClassName("govuk-input")[0].value.trim() == "") {
+          //     submit = false;
+          //     formGroups[i].getElementsByClassName("govuk-error-message")[0].style = "display: block";
+          //   } else {
+          //     formGroups[i].getElementsByClassName("govuk-error-message")[0].style = "display: none";
+          //   }
+          // }
           if (submit) {
             document.getElementById("global-error").style = "display: none";
             window.location.replace("/register-to-protest/register/thank-you");
