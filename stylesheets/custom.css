@@ -41,8 +41,10 @@ body {
 }
 .homepage-top {
     text-align: center;
-    background: #005ea5;
+    background: #1d70b8;
     color: #fff;
+    padding-bottom: 50px;
+    padding-top: 60px;
 }
 .homepage-top * {
     color: #fff !important;
@@ -55,8 +57,15 @@ body {
     text-align: left;
 }
 .homepage-top .homepage-top-inner .govuk-heading-xl {
-    margin-top: 25px;
-    margin-bottom: 30px;
+    margin-bottom: 0;
+}
+.homepage-top .homepage-top-inner .govuk-heading-xl .govuk-caption-l {
+    margin-top: 30px;
+}
+.govuk-caption-l br {
+    display: block;
+    content: "";
+    margin-top: 10px;
 }
 .home-header {
     border-bottom: none; 
