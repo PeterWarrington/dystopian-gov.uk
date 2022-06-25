@@ -1,0 +1,54 @@
+---
+layout: basic
+---
+
+<a href="/news/" class="govuk-back-link">Back to News</a>
+<main class="govuk-main-wrapper " id="main-content" role="main">
+    <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+        <h1 class="govuk-heading-l">
+            {{ page.title }}
+            <span class="govuk-caption-l">
+                {{ page.description }}
+            </span>
+        </h1>
+
+        {% if page.image %}
+        <img src="{{ page.image }}" alt="" />
+
+        <br>
+        {% endif %}
+
+        <div class="govuk-body">
+            {{ content }}
+        </div>
+
+    </div>
+
+    <div class="govuk-grid-column-one-third">
+
+        <!-- The Related items component is not part of GOV.UK Frontend but will be styled if used in the Prototype Kit -->
+
+        <aside class="app-related-items" role="complementary">
+        <h2 class="govuk-heading-m" id="subsection-title">
+            Other services on GOV.UK
+        </h2>
+        <nav role="navigation" aria-labelledby="subsection-title">
+            <ul class="govuk-list govuk-!-font-size-16">
+            <li>
+                <a class="govuk-link" href="/news">
+                News
+                </a>
+            </li>
+            <li>
+                <a class="govuk-link" href="/register-to-protest">
+                Register to protest
+                </a>
+            </li>
+            </ul>
+        </nav>
+        </aside>
+
+    </div>
+    </div>
+</main>
