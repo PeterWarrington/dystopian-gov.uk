@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Prime Minister begins 6th term in office
-description: After unanimous verdict by the People's Council, this Government's term has been renewed for another 5 years. Prime Minister Boris Johnson praised this as "A testament to the hard work of this Government in promoting security and patriotism".
+description: After unanimous verdict by the People's Council, this Government's term has been renewed for another 5 years. Prime Minister Boris Johnson praised this as 'A testament to the hard work of this Government in promoting security and patriotism'.
 image: /departments/downing-street/no-10.jpeg
 ---
 
