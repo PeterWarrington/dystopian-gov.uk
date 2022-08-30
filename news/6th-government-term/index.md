@@ -5,9 +5,9 @@ description: After unanimous verdict by the People's Council, this Government's 
 image: /departments/downing-street/no-10.jpeg
 ---
 
-Addressing the people of this great country outside Downing Street, Prime Minister ~~Boris Johnson~~ marked the beginning of his 6th term in office by paying testament to the work of his Government since it came to power in 2019.
+Addressing the people of this great country outside Downing Street, the Prime Minister marked the beginning of his 6th term in office by paying testament to the work of his Government since it came to power 30 years ago.
 
-In the televised speech, ~~Johnson~~ celebrated his record in levelling up Britain, reforming the country from the bottom up. He pointed to his crucial work in abolishing the antiquated Houses of Parliament that has continually failed the country, replacing it with a truly democratic people's council with the power to legislate on the people's priorities without impediment by those that do not have respect for the institutions of our country.
+In the televised speech, the PM celebrated his record in levelling up Britain, reforming the country from the bottom up. He pointed to his crucial work in abolishing the antiquated Houses of Parliament that has continually failed the country, replacing it with a truly democratic people's council with the power to legislate on the people's priorities without impediment by those that do not have respect for the institutions of our country.
 
 Continuing, he said:
 

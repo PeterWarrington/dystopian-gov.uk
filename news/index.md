@@ -33,7 +33,7 @@ description: The latest news and updates from the great nation of the United Kin
         </a>
         <p class="govuk-!-font-size-16">
             After unanimous verdict by the People's Council, this Government's term has been
-            renewed for another 5 years. Prime Minister <del>Boris Johnson</del> praised this as 
+            renewed for another 5 years. The Prime Minister praised this as 
             "A testament to the hard work of this Government in promoting security and patriotism".
         </p>
         <hr class="govuk-section-break govuk-section-break--m govuk-section-break--visible">
