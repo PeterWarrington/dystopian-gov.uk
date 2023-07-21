@@ -17,17 +17,21 @@ title: Thank you for registering to protest
 
 <main class="govuk-main-wrapper " id="main-content" role="main">
     <div class="govuk-grid-row">
-    <div class="govuk-grid-column-two-thirds">
-        <h1 class="govuk-heading-xl">
-            Await Police Assistance.
-        </h1>
+        <div class="govuk-grid-column-two-thirds">
+            <h1 class="govuk-heading-xl">
+                Await Police Assistance.
+            </h1>
 
-    <p class="govuk-body">
-        You have completed the register to protest form. You can 
-        expect a police response within the next hour. Remain at
-        your home address.
-    </p>
+            <p class="govuk-body">
+                You have completed the register to protest form. You can 
+                expect a police response within the next hour. Remain at
+                your home address.
+            </p>
 
-</div>
+            <div class="govuk-inset-text author-bg">
+                No data has actually been transmitted, this is a fictional website. <a href="https://dystopian-uk.lilpete.me/about">Find out more</a>.
+            </div>
+
+        </div>
     </div>
 </main>
