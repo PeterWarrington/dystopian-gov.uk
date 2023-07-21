@@ -41,6 +41,11 @@ description: Find out more about the student finance generously offered to (elig
                 <li>Made a generous visit to <a href="https://donate.conservatives.com/" class="govuk-link govuk-link--no-visited-state">donate.conservatives.com</a></li>
             </ul>
         </p>
+
+        <div class="govuk-inset-text author-bg">
+            This page was created as a joke just to share with friends; this page is not linked elsewhere on the site as it is significantly less serious than the rest of it.
+            I think I was annoyed at Student Finance England at the time, along with the hike in the Tesco Meal Deal, which to be fair remains a serious outrage.
+        </div>
     </div>
     </div>
 </main>
