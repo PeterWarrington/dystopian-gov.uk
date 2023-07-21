@@ -29,7 +29,7 @@ title: Thank you for registering to protest
             </p>
 
             <div class="govuk-inset-text author-bg">
-                No data has actually been transmitted, this is a fictional website. <a href="https://dystopian-uk.lilpete.me/about">Find out more</a>.
+                No data has actually been transmitted, this is a fictional website. <a href="https://dystopian-uk.lilpete.me/about" class="govuk-footer__link">Find out more</a>.
             </div>
 
         </div>
