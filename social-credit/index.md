@@ -53,7 +53,7 @@ description: Manage your Social Credit Score and manage your future in our count
         our country to its full.
         </p>
 
-        <div class="govuk-inset-text">
+        <div class="govuk-inset-text author-bg">
         <a href="https://www.youtube.com/watch?v=WByBm2SwKk8" class="govuk-footer__link">Inspired by Tom Scott.</a>
         </div>
 
